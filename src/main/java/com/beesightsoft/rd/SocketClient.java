@@ -1,3 +1,5 @@
+package com.beesightsoft.rd;
+
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.drafts.Draft;
 import org.java_websocket.handshake.ServerHandshake;

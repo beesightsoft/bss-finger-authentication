@@ -1,3 +1,5 @@
+package com.beesightsoft.rd;
+
 import com.machinezoo.sourceafis.FingerprintMatcher;
 import com.machinezoo.sourceafis.FingerprintTemplate;
 
